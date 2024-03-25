@@ -1,10 +1,15 @@
 {
   "files": {
-    "main.js": "/dog-walking-by-stephen/static/js/main.48b566ff.js",
+    "main.css": "/dog-walking-by-stephen/static/css/main.f99104e0.css",
+    "main.js": "/dog-walking-by-stephen/static/js/main.ada395e6.js",
+    "static/media/dog600x600.jpg": "/dog-walking-by-stephen/static/media/dog600x600.4fedc5696df0e1998338.jpg",
+    "static/media/phoneQr.png": "/dog-walking-by-stephen/static/media/phoneQr.e2eaf8fbcb84fa012211.png",
     "index.html": "/dog-walking-by-stephen/index.html",
-    "main.48b566ff.js.map": "/dog-walking-by-stephen/static/js/main.48b566ff.js.map"
+    "main.f99104e0.css.map": "/dog-walking-by-stephen/static/css/main.f99104e0.css.map",
+    "main.ada395e6.js.map": "/dog-walking-by-stephen/static/js/main.ada395e6.js.map"
   },
   "entrypoints": [
-    "static/js/main.48b566ff.js"
+    "static/css/main.f99104e0.css",
+    "static/js/main.ada395e6.js"
   ]
 }
